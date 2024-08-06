@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+17:21:07	1154/1154	---M--	403	error ('Forbidden')	text/html	date:Fri,%2026%20Jul%202024%2016:21:20%20GMT	https://nextgenerationdev.com/demos/html/salud/salud/index.html	C:/Users/Utilizador/Desktop/Levi/training/nextgenerationdev.com/demos/html/salud/salud/index.0.delayed	(from )
+17:21:08	70/70	---MCZ	200	added ('OK')	text/plain	etag:%22558-1721807450;gz%22	https://nextgenerationdev.com/robots.txt		(from )
